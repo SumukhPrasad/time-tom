@@ -1,3 +1,3 @@
 # TimeTom
 
-I'll edit this later...
+This is a very simple program for calculating differences between timezones. Not much else, actually.
