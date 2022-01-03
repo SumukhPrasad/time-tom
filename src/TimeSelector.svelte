@@ -41,7 +41,7 @@
                <option value="00">00</option>
                <option value="30">30</option>
           </select><br>
-          <input type="submit" value="Go!">
+          <input type="submit" value="Get all timezones ->">
      </form>
 </main>
 
